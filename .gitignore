@@ -1,0 +1,10 @@
+
+#
+# native udt library extract location
+#
+
+/lib
+/target
+.classpath
+.project
+.settings/
